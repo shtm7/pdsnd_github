@@ -145,7 +145,7 @@ def station_stats(df):
     print('-'*40)
 
 
-def trip_duration_stats(df):
+def trip_duration_stats_1(df):
     """Displays statistics on the total and average trip duration.
     Args:
         (DataFrame) df - Pandas DataFrame containing city data filtered by month and day
