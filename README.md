@@ -23,10 +23,17 @@ The Chicago and New York City files also have the following two columns:
 - Birth Year
 
 ### Files used
+
 - bikeshare.py
 - chicago.csv
 - new_york_city.csv
 - washington.csv
+
+### Softwares needed:
+
+- Python 3, NumPy, and pandas installed using Anaconda
+- text editor, like Sublime or Atom
+- A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 ### Credits
 - Richard Kalehoff (Udacity mentor)
